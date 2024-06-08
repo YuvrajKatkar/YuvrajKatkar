@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 [![Backend Technologies](https://skillicons.dev/icons?i=spring,hibernate,elasticsearch,aws,docker)](https://skillicons.dev)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,bitbucket,jira)
+![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=linux,git,github,postman,)
+![Others](https://skillicons.dev/icons?i=linux,postman,git,github,bitbucket,jira)
