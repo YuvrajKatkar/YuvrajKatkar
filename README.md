@@ -8,8 +8,8 @@ Welcome to my GitHub profile!
 #### Programming Languages
 ![Languages](https://skillicons.dev/icons?i=java,scala,ts,go)
 
-#### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=spring,hibernate,elasticsearch,aws,docker,nginx)](https://skillicons.dev)
+#### Technologies
+[![Backend Technologies](https://skillicons.dev/icons?i=spring,react,hibernate,elasticsearch,aws,docker,nginx)](https://skillicons.dev)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)
