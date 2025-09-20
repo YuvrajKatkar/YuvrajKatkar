@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=java,scala,go)
+![Languages](https://skillicons.dev/icons?i=java,scala,ts,go)
 
 #### Backend Technologies
 [![Backend Technologies](https://skillicons.dev/icons?i=spring,hibernate,elasticsearch,aws,docker,nginx)](https://skillicons.dev)
